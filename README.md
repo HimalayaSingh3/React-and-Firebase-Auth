@@ -57,7 +57,7 @@ export const auth = getAuth(app);
 Replace `"YOUR_API_KEY"` and other placeholders with your actual Firebase project configuration details.
 
 ### 4. Implement Authentication Components
-Create components for Sign Up, Sign In, and Logout.
+Create components for Register and Login.
 
 #### Form Component
 ```javascript
@@ -163,7 +163,7 @@ export default App
 ## Running the Application
 To run your application locally, execute:
 ```bash
-npm start
+npm run dev
 ```
 Visit `http://localhost:3000` in your browser to see your authentication system in action.
 
