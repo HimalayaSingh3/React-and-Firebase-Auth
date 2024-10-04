@@ -167,3 +167,11 @@ npm run dev
 ```
 Visit `http://localhost:3000` in your browser to see your authentication system in action.
 
+## Contributing
+Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
+
+## License
+MIT
+    
+
+
